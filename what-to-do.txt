@@ -1,0 +1,2 @@
+ls - list directory
+exfil [file] - exfiltrate a file
